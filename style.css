@@ -1,0 +1,16 @@
+button.owl-dot {
+    background: unset;
+    border-color: unset;
+    border: unset;
+}
+button:focus {
+    outline: none !important;
+    outline: none !important;
+}
+button.owl-prev {
+    border: unset;
+}
+button.owl-next {
+    border: unset;
+}
+  
